@@ -2,7 +2,7 @@ About This Project
 
 ----
 
-'ssh://git@gitlab.diagnose.lewatek.com:29418/qychen/Docker-CodeIgniter.git'
+'https://github.com/186411/Docker-CI.git'
 
 Run Command
 ----
