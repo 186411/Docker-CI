@@ -26,6 +26,4 @@ RUN rm /etc/php5/fpm/php-fpm.conf
 
 COPY ./config/php-fpm.conf /etc/php5/fpm/
 
-COPY ./config/www.conf /etc/php5/fpm/conf.d
-
 CMD /sbin/entrypoint.sh    
